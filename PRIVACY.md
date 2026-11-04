@@ -46,4 +46,4 @@ DeskTidy 不收集任何人的个人信息，包括儿童。
 
 ## 联系方式
 
-如有疑问，请发邮件到 shuojinyuanli@gmail.com，或在 [Issues](https://github.com/uashodauw/DeskTidy-Release/issues) 里提交。
+如有疑问，请发邮件到 shuojinyuanli@gmail.com，或在 [Issues](https://github.com/JimLee-AIPM/DeskTidy-Release/issues) 里提交。
